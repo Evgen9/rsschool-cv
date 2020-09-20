@@ -1,2 +1,3 @@
 # rsschool-cv
-https://Evgen9.io/rsschool-cv/cv
+https://Evgen9.github.io/rsschool-cv/
+
